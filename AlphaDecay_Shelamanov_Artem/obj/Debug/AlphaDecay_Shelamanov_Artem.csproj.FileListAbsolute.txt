@@ -1,0 +1,46 @@
+C:\Users\HectorPhD\Desktop\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\obj\Debug\AlphaDecay_Shelamanov_Artem.csproj.AssemblyReference.cache
+C:\Users\HectorPhD\Desktop\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\obj\Debug\AlphaDecay_Shelamanov_Artem.Form1.resources
+C:\Users\HectorPhD\Desktop\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\obj\Debug\AlphaDecay_Shelamanov_Artem.Properties.Resources.resources
+C:\Users\HectorPhD\Desktop\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\obj\Debug\AlphaDecay_Shelamanov_Artem.csproj.GenerateResource.cache
+C:\Users\HectorPhD\Desktop\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\obj\Debug\AlphaDecay_Shelamanov_Artem.csproj.CoreCompileInputs.cache
+C:\Users\HectorPhD\Desktop\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\bin\Debug\AlphaDecay_Shelamanov_Artem.exe.config
+C:\Users\HectorPhD\Desktop\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\bin\Debug\AlphaDecay_Shelamanov_Artem.exe
+C:\Users\HectorPhD\Desktop\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\bin\Debug\AlphaDecay_Shelamanov_Artem.pdb
+C:\Users\HectorPhD\Desktop\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\obj\Debug\AlphaDecay_Shelamanov_Artem.Form2.resources
+C:\Users\HectorPhD\Desktop\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\obj\Debug\AlphaDecay_Shelamanov_Artem.Form3.resources
+C:\Users\HectorPhD\Desktop\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\obj\Debug\AlphaDecay_Shelamanov_Artem.Form4.resources
+C:\Users\HectorPhD\Desktop\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\obj\Debug\AlphaDecay_Shelamanov_Artem.exe
+C:\Users\HectorPhD\Desktop\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\obj\Debug\AlphaDecay_Shelamanov_Artem.pdb
+C:\Users\HectorPhD\Desktop\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\obj\Debug\AlphaDecay_Shelamanov_Artem.Form5.resources
+C:\Users\HectorPhD\Desktop\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\obj\Debug\AlphaDecay_Shelamanov_Artem.Form6.resources
+C:\Users\HectorPhD\Desktop\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\bin\Debug\Tao.FreeGlut.dll
+C:\Users\HectorPhD\Desktop\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\bin\Debug\Tao.OpenGl.dll
+C:\Users\HectorPhD\Desktop\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\bin\Debug\Tao.FreeGlut.xml
+C:\Users\HectorPhD\Desktop\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\bin\Debug\Tao.FreeGlut.dll.config
+C:\Users\HectorPhD\Desktop\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\bin\Debug\Tao.OpenGl.xml
+C:\Users\HectorPhD\Desktop\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\obj\Debug\AlphaDecay_Shelamanov_Artem.csproj.CopyComplete
+C:\Users\HectorPhD\Desktop\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\HectorPhD\Desktop\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\HectorPhD\Desktop\МАН - 2\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\bin\Debug\AlphaDecay_Shelamanov_Artem.exe.config
+C:\Users\HectorPhD\Desktop\МАН - 2\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\bin\Debug\AlphaDecay_Shelamanov_Artem.exe
+C:\Users\HectorPhD\Desktop\МАН - 2\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\bin\Debug\AlphaDecay_Shelamanov_Artem.pdb
+C:\Users\HectorPhD\Desktop\МАН - 2\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\bin\Debug\Tao.FreeGlut.dll
+C:\Users\HectorPhD\Desktop\МАН - 2\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\bin\Debug\Tao.OpenGl.dll
+C:\Users\HectorPhD\Desktop\МАН - 2\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\HectorPhD\Desktop\МАН - 2\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\bin\Debug\Tao.FreeGlut.xml
+C:\Users\HectorPhD\Desktop\МАН - 2\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\bin\Debug\Tao.FreeGlut.dll.config
+C:\Users\HectorPhD\Desktop\МАН - 2\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\bin\Debug\Tao.OpenGl.xml
+C:\Users\HectorPhD\Desktop\МАН - 2\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\HectorPhD\Desktop\МАН - 2\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\obj\Debug\AlphaDecay_Shelamanov_Artem.csproj.AssemblyReference.cache
+C:\Users\HectorPhD\Desktop\МАН - 2\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\obj\Debug\AlphaDecay_Shelamanov_Artem.Form1.resources
+C:\Users\HectorPhD\Desktop\МАН - 2\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\obj\Debug\AlphaDecay_Shelamanov_Artem.Form2.resources
+C:\Users\HectorPhD\Desktop\МАН - 2\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\obj\Debug\AlphaDecay_Shelamanov_Artem.Form3.resources
+C:\Users\HectorPhD\Desktop\МАН - 2\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\obj\Debug\AlphaDecay_Shelamanov_Artem.Form4.resources
+C:\Users\HectorPhD\Desktop\МАН - 2\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\obj\Debug\AlphaDecay_Shelamanov_Artem.Form5.resources
+C:\Users\HectorPhD\Desktop\МАН - 2\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\obj\Debug\AlphaDecay_Shelamanov_Artem.Form6.resources
+C:\Users\HectorPhD\Desktop\МАН - 2\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\obj\Debug\AlphaDecay_Shelamanov_Artem.Properties.Resources.resources
+C:\Users\HectorPhD\Desktop\МАН - 2\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\obj\Debug\AlphaDecay_Shelamanov_Artem.csproj.GenerateResource.cache
+C:\Users\HectorPhD\Desktop\МАН - 2\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\obj\Debug\AlphaDecay_Shelamanov_Artem.csproj.CoreCompileInputs.cache
+C:\Users\HectorPhD\Desktop\МАН - 2\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\obj\Debug\AlphaDecay_Shelamanov_Artem.csproj.CopyComplete
+C:\Users\HectorPhD\Desktop\МАН - 2\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\obj\Debug\AlphaDecay_Shelamanov_Artem.exe
+C:\Users\HectorPhD\Desktop\МАН - 2\AlphaDecay_Shelamanov_Artem\AlphaDecay_Shelamanov_Artem\obj\Debug\AlphaDecay_Shelamanov_Artem.pdb
